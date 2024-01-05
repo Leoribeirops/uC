@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"D:\micropicC\Cap_05_06\Exerc\Ex_06_2\Ex_06_2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\micropicC\Cap_05_06\Exerc\Ex_06_2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Ex_06_2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex_06_2.c
+diagnostics: 22	123	Compiled Successfully	Ex_06_2.c
+hint: 3	1164	Variable 'a' has been eliminated by optimizer	Ex_06_2.c
+hint: 4	1164	Variable 'b' has been eliminated by optimizer	Ex_06_2.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)
+hint: 0	1144	Used ROM (bytes): 88 (1%)  Free ROM (bytes): 32680 (99%)	Used ROM (bytes): 88 (1%)  Free ROM (bytes): 32680 (99%)
+diagnostics: 0	125	Project Linked Successfully	Ex_06_2.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Ex_06_2.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 28 set 2023, 20:36:07	Ex_06_2.mcppi
