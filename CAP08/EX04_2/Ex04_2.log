@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"E:\microC\CAP08\EX04_2\Ex04_2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\microC\CAP08\EX04_2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Ex04_2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex04_2.c
+diagnostics: 68	123	Compiled Successfully	Ex04_2.c
+hint: 24	1164	Variable 'centenas' has been eliminated by optimizer	Ex04_2.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 10 (1%)  Free RAM (bytes): 2017 (99%)	Used RAM (bytes): 10 (1%)  Free RAM (bytes): 2017 (99%)
+hint: 0	1144	Used ROM (bytes): 848 (3%)  Free ROM (bytes): 31920 (97%)	Used ROM (bytes): 848 (3%)  Free ROM (bytes): 31920 (97%)
+diagnostics: 0	125	Project Linked Successfully	Ex04_2.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'Ex04_2.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 04 nov 2023, 14:51:24	Ex04_2.mcppi
