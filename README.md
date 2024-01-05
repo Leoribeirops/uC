@@ -5,6 +5,7 @@ Este repositório é dedicado a todos que estão dando os primeiros passos no mu
 
 Material de Apoio
 Os exercícios são baseados na apostila disponível no seguinte link: https://drive.google.com/drive/folders/1H6GaP-Y9uWMkOYHLargCrC2UdMV4VsZa?usp=sharing 
+
 Este material é um recurso valioso e serve como uma referência teórica e prática para os exercícios apresentados neste repositório.
 
 Ferramentas Utilizadas
