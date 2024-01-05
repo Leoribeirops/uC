@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\microC\CAP09\EX_14\Ex_14.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\microC\CAP09\EX_14\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Ex_14.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex_14.c
+diagnostics: 46	123	Compiled Successfully	Ex_14.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 29 (8%)  Free RAM (bytes): 323 (92%)	Used RAM (bytes): 29 (8%)  Free RAM (bytes): 323 (92%)
+hint: 0	1144	Used ROM (program words): 473 (6%)  Free ROM (program words): 7719 (94%)	Used ROM (program words): 473 (6%)  Free ROM (program words): 7719 (94%)
+diagnostics: 0	125	Project Linked Successfully	Ex_14.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Ex_14.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 18 nov 2023, 15:56:47	Ex_14.mcppi
