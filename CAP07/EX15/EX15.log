@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"E:\microC\CAP07\EX15\EX15.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\microC\CAP07\EX15\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "EX15.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	EX15.c
+diagnostics: 73	123	Compiled Successfully	EX15.c
+hint: 34	1164	Variable 'hundreds' has been eliminated by optimizer	EX15.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 20 (1%)  Free RAM (bytes): 2007 (99%)	Used RAM (bytes): 20 (1%)  Free RAM (bytes): 2007 (99%)
+hint: 0	1144	Used ROM (bytes): 522 (2%)  Free ROM (bytes): 32246 (98%)	Used ROM (bytes): 522 (2%)  Free ROM (bytes): 32246 (98%)
+diagnostics: 0	125	Project Linked Successfully	EX15.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'EX15.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 28 out 2023, 20:47:32	EX15.mcppi
