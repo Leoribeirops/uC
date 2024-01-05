@@ -1,0 +1,9 @@
+a-) Nos trechos 1 e 2, existe uma condição externa para o LED piscar.
+
+b-) A condição é o estado do pino porta.f0. No primeiro trecho, o LED piscará uma vez se porta.f0 for 1. No segundo trecho, o LED continuará piscando enquanto porta.f0 for 1.
+
+c-)
+
+No primeiro caso (1º-), o LED piscará uma vez se porta.f0 for 1.
+No segundo caso (2º-), o LED piscará indefinidamente enquanto porta.f0 for 1. Cada ciclo de piscar (ligar e desligar) leva 2 segundos, então o número de piscadas é a duração em segundos em que porta.f0 permanece 1 dividido por 2.
+No terceiro caso (3º-), o LED piscará 10 vezes, independentemente do estado de porta.f0, pois não há uma condição externa sendo verificada.
