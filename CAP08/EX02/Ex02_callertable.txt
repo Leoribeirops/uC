@@ -1,0 +1,4 @@
+main
+	pisca_led0
+	pisca_led1
+	pisca_led2_e_led3

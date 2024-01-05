@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"E:\microC\CAP08\EX01\Ex01.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\microC\CAP08\EX01\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Ex01.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex01.c
+diagnostics: 24	123	Compiled Successfully	Ex01.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (1%)  Free RAM (bytes): 2021 (99%)	Used RAM (bytes): 6 (1%)  Free RAM (bytes): 2021 (99%)
+hint: 0	1144	Used ROM (bytes): 276 (1%)  Free ROM (bytes): 32492 (99%)	Used ROM (bytes): 276 (1%)  Free ROM (bytes): 32492 (99%)
+diagnostics: 0	125	Project Linked Successfully	Ex01.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Ex01.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 04 nov 2023, 14:14:25	Ex01.mcppi
