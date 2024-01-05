@@ -1,0 +1,5 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\microC\CAP09\Key_exemplo13\Key_exemplo13.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\microC\CAP09\Key_exemplo13\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Key_exemplo13.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Keypad4x4.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Key_exemplo13.c
+error: 15	324	Undeclared identifier 'teclado' in expression	Key_exemplo13.c
+error: 0	102	Finished (with errors): 26 nov 2023, 21:18:24	Key_exemplo13.mcppi
