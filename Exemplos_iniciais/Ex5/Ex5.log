@@ -1,0 +1,10 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo8 -N"E:\Users\Leo\Documents\micropicC\Ex5\Ex5.mcppi" -SP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\Users\Leo\Documents\micropicC\Ex5\" -IP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Ex5.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex5.c
+error: 13	376	Integer const expected	Ex5.c
+error: 13	395	Expression must be greater than 0	Ex5.c
+warning: 13	1515	Time too small, no code generated	Ex5.c
+error: 15	376	Integer const expected	Ex5.c
+error: 15	395	Expression must be greater than 0	Ex5.c
+warning: 15	1515	Time too small, no code generated	Ex5.c
+error: 0	102	Finished (with errors): 06 ago 2023, 03:23:56	Ex5.mcppi

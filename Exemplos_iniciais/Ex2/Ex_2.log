@@ -1,0 +1,5 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo8 -N"E:\Users\Leo\Documents\micropicC\Ex2\Ex_2.mcppi" -SP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\Users\Leo\Documents\micropicC\Ex2\" -IP"E:\Users\Leo\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Ex_2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	Ex_2.c
+error: 53	304	End of file expected but '2' found	Ex_2.c
+error: 0	102	Finished (with errors): 14 ago 2023, 20:35:46	Ex_2.mcppi
