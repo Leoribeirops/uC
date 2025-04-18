@@ -18,6 +18,7 @@ Como Utilizar Este Repositório:
 Primeiro, faça o download e instale o MikroC for PIC e o PICSimLab nos links fornecidos.
 Em seguida, baixe ou clone este repositório para o seu ambiente de desenvolvimento.
 Abra os exercícios utilizando o MikroC for PIC e comece a explorar os códigos fornecidos.
+Tutorial no Link: https://drive.google.com/file/d/1iFXfTv3lZ_cR2s-PMYPbcxTo5IkGMq_v/view?usp=sharing
 Utilize o PICSimLab para simular os códigos e ver os resultados em tempo real.
 
 Contribuições
